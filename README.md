@@ -71,6 +71,10 @@ Rebuilt 80% of the Beans Route iOS app using SwiftUI, MVVM and Clean Architectur
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents: 25 Essential Terms Every Beginner Should Know](https://medium.com/@manishtiwari2578/ai-agents-25-essential-terms-every-beginner-should-know-918b211f8d50?source=rss-7de4616ce233------2)
+- [Dynamic Programming: How I Learned to Convert Memoization &lpar;Top-Down&rpar; to Tabulation &lpar;Bottom-Up&rpar;](https://medium.com/@manishtiwari2578/dynamic-programming-how-i-learned-to-convert-memoization-top-down-to-tabulation-bottom-up-5489ae64d0cd?source=rss-7de4616ce233------2)
+- [Why Every AI Engineer Should Learn Hugging Face](https://medium.com/@manishtiwari2578/why-every-ai-engineer-should-learn-hugging-face-510cac9b448e?source=rss-7de4616ce233------2)
+- [From RNNs to ChatGPT: Understanding the Architecture Behind Modern AI](https://medium.com/@manishtiwari2578/from-rnns-to-chatgpt-understanding-the-architecture-behind-modern-ai-d701d8296e90?source=rss-7de4616ce233------2)
 <!-- BLOG-POST-LIST:END -->
 
 [More on Medium →](https://medium.com/@manishtiwari2578)
